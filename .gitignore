@@ -1,0 +1,4 @@
+test-space
+*__pycache__
+.DS_STORE
+workspace.zip
